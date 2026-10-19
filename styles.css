@@ -46,6 +46,8 @@ img { display: block; max-width: 100%; }
 .btn { display: inline-flex; min-height: 46px; align-items: center; justify-content: center; padding: 0 18px; text-decoration: none; border: 1px solid var(--forest); font-weight: 750; }
 .btn-primary { background: var(--forest); color: var(--white); }
 .btn-secondary { background: transparent; color: var(--forest); }
+.section-dark .btn-secondary { border-color: #dfb49f; color: var(--white); }
+.section-dark .btn-secondary:hover { background: #dfb49f; color: var(--forest); }
 .btn:hover { transform: translateY(-1px); }
 .hero-meta { margin-top: 26px; color: var(--muted); font-size: .9rem; }
 .dot { margin: 0 9px; }
