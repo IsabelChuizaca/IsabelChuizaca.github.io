@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Profile photo placeholder</title>
+  <desc id="desc">Decorative placeholder using topographic-style lines.</desc>
+  <rect width="800" height="1000" fill="#dfe7df"/>
+  <g fill="none" stroke="#6d8c80" stroke-width="3" opacity="0.7">
+    <path d="M-50 220 C140 70 250 370 470 190 S860 230 850 40"/>
+    <path d="M-20 300 C170 150 300 430 510 270 S870 320 840 120"/>
+    <path d="M-40 390 C160 240 320 520 540 350 S900 410 860 210"/>
+    <path d="M-30 520 C180 330 340 650 580 470 S900 540 850 320"/>
+    <path d="M-50 650 C180 450 360 780 610 600 S930 670 860 450"/>
+    <path d="M-30 790 C200 560 390 900 640 720 S940 820 880 590"/>
+  </g>
+  <circle cx="400" cy="430" r="130" fill="#173f35" opacity="0.92"/>
+  <path d="M180 930 C220 680 580 680 620 930" fill="#173f35" opacity="0.92"/>
+  <text x="400" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" letter-spacing="5" fill="#173f35">ADD PHOTO</text>
+</svg>
