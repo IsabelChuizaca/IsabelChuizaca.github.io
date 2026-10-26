@@ -100,6 +100,8 @@ h2 { margin: 0; font-family: Georgia, "Times New Roman", serif; font-size: clamp
 .timeline-date { color: var(--clay); font-weight: 800; }
 .timeline-item h3 { margin: 0 0 5px; font-size: 1.3rem; }
 .timeline-item p { margin: 5px 0 0; color: var(--muted); }
+.timeline-item ul { margin: 14px 0 0; padding-left: 1.25rem; color: var(--muted); }
+.timeline-item li + li { margin-top: 8px; }
 .timeline-note { color: var(--forest) !important; font-weight: 700; }
 
 .award-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1px; background: var(--line); border: 1px solid var(--line); }
